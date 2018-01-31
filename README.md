@@ -10,7 +10,7 @@ For correct work need install slock utility. Official page [slock](https://tools
 
 #### Usage
 
-Clone repo [pomo-cli](git@github.com:unixzen/pomo-cli.git). Install slock utility. From pomo-cli directory usage pomo-cli simplest as:
+Clone repo [pomo-cli](https://github.com/unixzen/pomo-cli.git). Install slock utility. From pomo-cli directory usage pomo-cli simplest as:
 
 ```python3
 python3 pomo-cli.py
