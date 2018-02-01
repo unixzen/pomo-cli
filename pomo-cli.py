@@ -17,8 +17,8 @@ def pomo_duration(duration):
     time.sleep(60)
   print("\r")
   print(bcolors.GREEN + "Time to rest!" + bcolors.ENDC)
-# lock screen with utility slock (official page of slock project https://git.suckless.org/slock)
-  call("slock")
+# lock screen with utility i3lock (official page of i3lock project https://github.com/i3/i3lock)
+  call("i3lock")
 
 # default time is set at 25 minutes
 pomo_duration(25)
